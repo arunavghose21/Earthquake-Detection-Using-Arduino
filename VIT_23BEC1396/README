@@ -1,0 +1,42 @@
+i) Problem Statement:
+Earthquakes are natural disasters that can cause devastating damage to infrastructure and human lives. The lack of timely alerts leads to unpreparedness and increased casualties. Traditional warning systems are expensive, complex, and often inaccessible in remote or low-income areas. Therefore, there is a need for a cost-effective, microcontroller-based earthquake detection and alert system that can sense seismic activity and instantly trigger alerts to minimize damage and save lives.
+
+
+
+
+ii) Scope of the Solution:
+The proposed system aims to develop a prototype using microcontroller technology (e.g., Arduino) that detects vibrations and alerts users immediately. It will be capable of:
+
+Detecting ground vibrations using a vibration/tilt sensor or accelerometer.
+
+Triggering visual (LED) and audio (buzzer) alerts.
+
+Operating in real-time with minimal delay.
+
+Being scalable for integration into home, school, and industrial safety systems.
+
+Simulating the earthquake scenario using virtual tools like TinkerCad or Fritzing for demonstration.
+
+
+
+
+iii) Required Components to Develop the Solution:
+Hardware:
+
+Arduino UNO or any compatible microcontroller board
+
+Accelerometer ADXL335
+
+Buzzer
+
+LED (for visual alert)
+
+Resistors and jumper wires
+
+Breadboard
+
+Power supply (5V)
+
+Software:
+
+TinkerCAD and EasyEDA
